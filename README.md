@@ -12,8 +12,4 @@ git clone "https://github.com/sudarsankumar/static-social-networking-site.git"
 ```
 
 ## demo link
-<<<<<<< HEAD
-[Hand movement detector](https://sudarsankumar.github.io/static-social-networking-site/dist/)
-=======
 [Social Connector](https://sudarsankumar.github.io/static-social-networking-site/dist/)
->>>>>>> f1b1fd56ed5ddd44d83e32a466afc13517d21300
